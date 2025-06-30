@@ -1,0 +1,4 @@
+venv
+.env
+prompts.cpython-312.pyc
+tools.cpython-312.pyc
